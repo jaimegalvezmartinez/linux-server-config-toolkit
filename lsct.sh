@@ -6045,6 +6045,8 @@ echo -e "${CYAN}${BOLD}==================== by: Jaime Galvez Martinez ==========
 echo -e "${CYAN}${BOLD}=================== GitHub: JaimeGalvezMartinez ====================${NC}"
 echo -e "${BLUE}${BOLD}===================================================================${NC}"
 echo ""
+echo -e "${BLUE} }🚀 DHCP server on your router must be disabled, because this PXE works with its own DHCP server  "
+echo ""
 
 # Common Variables
 IVENTOY_VERSION="1.0.19"
